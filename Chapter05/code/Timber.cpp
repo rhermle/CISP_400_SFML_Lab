@@ -4,6 +4,8 @@
 #include <sstream>
 #include <iostream>
 
+//Changed stuff
+
 // Make code easier to type with "using namespace"
 using namespace sf;
 using namespace std;
